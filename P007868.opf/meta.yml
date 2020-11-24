@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD36435
   title: ཡུན་ནན་བོད་ཀྱི་ཤེས་རིག་ཞིབ་འཇུག་ཆེད་རྩོམ་ཕྱོགས་བསྒྲིགས། ༢
-  volume: ''
+  volume:
+    973856ee59a448d989c73ae9bad282e3:
+      image_group_id: I1PD36457
+      title: Volume 1 of yun nan bod kyi shes rig zhib 'jug ched rtsom phyogs bsgrigs/
+        2
+      volume_number: 1
+      total_pages: 424
   author: ''
+ebook_metadata:
+  title: ཡུན་ནན་བོད་ཀྱི་ཤེས་རིག་ཞིབ་འཇུག་ཆེད་རྩོམ་ཕྱོགས་བསྒྲིགས། ༢
+  author: ''
+  sku: P007868
+  cover: cover.jpg
+  layers:
+  - pagination
